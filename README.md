@@ -5,4 +5,4 @@ Learning proyect - 42 Málaga
 
 The goal of this project is to create a simple shell
 
-It was developed in collaboration with [@username] (https://www.github.com/IcaroJam)
+It was developed in collaboration with [@IcaroJam] (https://www.github.com/IcaroJam)
